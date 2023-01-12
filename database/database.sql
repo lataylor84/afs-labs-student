@@ -1,3 +1,4 @@
+-- New comment for testing
 --
 -- PostgreSQL database dump
 --
