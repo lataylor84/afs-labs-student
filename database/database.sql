@@ -1,5 +1,5 @@
 -- New comment for testing
---
+-- Enable harbor scanning
 -- PostgreSQL database dump
 --
 
